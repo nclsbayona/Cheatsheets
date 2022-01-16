@@ -12,8 +12,9 @@ jobs:
     name: Update README
     runs-on: ubuntu-latest
     steps:
-        - name: Update README file
-          uses: nclsbayona/images-link-action@master
-          env:
-            REPOSITORY: ${{ github.repository }}
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v2
+      - name: Update README file
+        uses: nclsbayona/images-link-action@master
+        env:
+          REPOSITORY: ${{ github.repository }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
