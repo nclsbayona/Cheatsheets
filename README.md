@@ -1,9 +1,33 @@
 
 # Cheatsheets
+## Linux
+### Networking
+- 1
+
+![#1](Linux/Networking/1/1.jpg)
+
+
+## General
+### RegExp
+- 1
+
+![#1](General/RegExp/1/1.jpg)
+
+
 
 
 
 ## Python
+### Django
+- Basics
+
+![#2](Python/Django/Basics/2.jpg)
+
+
+
+![#1](Python/Django/Basics/1.jpg)
+
+
 ### NumPy
 - Cheatsheet #1
 
