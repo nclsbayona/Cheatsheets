@@ -1,0 +1,19 @@
+name: README Build
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+  schedule:
+    - cron: "*/55 * * * *"
+
+jobs:
+  build:
+    name: Update README
+    runs-on: ubuntu-latest
+    steps:
+        - name: Update README file
+          uses: nclsbayona/images-link-action@master
+          env:
+            REPOSITORY: ${{ github.repository }}
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

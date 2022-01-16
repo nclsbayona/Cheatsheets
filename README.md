@@ -10,7 +10,7 @@ This is a collection of some cheatsheets I find useful, It's important to note h
 ![#1](Python/NumPy/1/1.jpg)
 
 ### Pandas
-- Cheatsheet #2
+- Cheatsheet #1
 
 ![#1](Python/Pandas/1/1.jpg)
 ![#2](Python/Pandas/1/2.jpg)
