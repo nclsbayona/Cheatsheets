@@ -7,6 +7,12 @@
 ![#1](Docker/Basics/1/1.jpg)
 
 
+- 2![#1](Docker/Basics/2/1.jpg)
+
+
+
+
+
 ## Linux
 ### Networking
 - 1
@@ -28,11 +34,8 @@
 ### Django
 - Basics
 
-![#2](Python/Django/Basics/2.jpg)
-
-
-
 ![#1](Python/Django/Basics/1.jpg)
+![#2](Python/Django/Basics/2.jpg)
 
 
 ### NumPy
@@ -40,11 +43,15 @@
 
 ![#1](Python/NumPy/1/1.jpg)
 
+
 ### Pandas
 - Cheatsheet #1
 
 ![#1](Python/Pandas/1/1.jpg)
 ![#2](Python/Pandas/1/2.jpg)
+
+
+
 
 
 ## YAML
