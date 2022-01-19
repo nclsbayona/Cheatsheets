@@ -1,11 +1,6 @@
 
 # Cheatsheets
 ## Docker
-- Basics
-
-![#1](Docker/Basics/1.jpg)
-
-
 ### Basics
 - 1
 
