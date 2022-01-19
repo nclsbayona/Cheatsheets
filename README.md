@@ -1,4 +1,4 @@
-[![Delete Runs](https://github.com/nclsbayona/Cheatsheets/actions/workflows/delete-workfloemain.yml/badge.svg)](https://github.com/nclsbayona/Cheatsheets/actions/workflows/delete-workfloemain.yml) [![README Build](https://github.com/nclsbayona/Cheatsheets/actions/workflows/update_readme.yml/badge.svg)](https://github.com/nclsbayona/Cheatsheets/actions/workflows/update_readme.yml)
+
 # Cheatsheets
 ## Docker
 ### Basics
