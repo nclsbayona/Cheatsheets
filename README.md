@@ -7,7 +7,9 @@
 ![#1](Docker/Basics/1/1.jpg)
 
 
-- 2![#1](Docker/Basics/2/1.jpg)
+- 2
+
+![#1](Docker/Basics/2/1.jpg)
 
 
 
