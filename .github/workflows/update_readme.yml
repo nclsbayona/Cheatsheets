@@ -15,3 +15,6 @@ jobs:
       - uses: actions/checkout@v2
       - name: Update README file
         uses: nclsbayona/images-link-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{ github.repository }}
