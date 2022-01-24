@@ -5,7 +5,7 @@ on:
       - master
   workflow_dispatch:
   schedule:
-    - cron: "*/55 * * * *"
+    - cron: "0 1 1 1 */1"
 
 jobs:
   build:
@@ -16,5 +16,5 @@ jobs:
       - name: Update README file
         uses: nclsbayona/images-link-action@master
         env:
-          REPOSITORY: ${{ github.repository }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{ github.repository }}
