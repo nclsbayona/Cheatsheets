@@ -1,5 +1,33 @@
 
 # Cheatsheets
+## JS
+### Angular
+- 2
+
+![#1](JS/Angular/2/1.jpg)
+
+
+- 1
+
+![#1](JS/Angular/1/1.jpg)
+
+
+
+![#5](JS/Angular/1/5.jpg)
+
+
+
+![#3](JS/Angular/1/3.jpg)
+
+
+
+![#4](JS/Angular/1/4.jpg)
+
+
+
+![#2](JS/Angular/1/2.jpg)
+
+
 ## Docker
 ### Commands
 - 1
