@@ -54,6 +54,16 @@
 
 
 ## Linux
+### CLI
+- 1
+
+![#1](Linux/CLI/1/1.jpg)
+
+
+
+![#2](Linux/CLI/1/2.jpg)
+
+
 ### Networking
 - 1
 
