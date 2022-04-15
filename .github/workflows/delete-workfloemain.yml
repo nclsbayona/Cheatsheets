@@ -5,7 +5,7 @@ name: Delete Runs
 # Controls when the workflow will run
 on:
   schedule:
-    - cron: '0 0 1 * *'
+    - cron: '15 2 */1 * *'
 
   workflow_dispatch:
     inputs:
