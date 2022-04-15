@@ -88,6 +88,11 @@
 
 ## Kubernetes
 ### Kubectl
+- 2
+
+![#1](Kubernetes/Kubectl/2/1.jpg)
+
+
 - 1
 
 ![#14](Kubernetes/Kubectl/1/14.jpg)
