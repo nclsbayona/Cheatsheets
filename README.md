@@ -423,6 +423,25 @@
 
 
 ## Kubernetes
+- 1
+
+![#1](Kubernetes/1/1.jpg)
+
+
+
+![#2](Kubernetes/1/2.jpg)
+
+
+- 2
+
+![#1](Kubernetes/2/1.jpg)
+
+
+- 3
+
+![#1](Kubernetes/3/1.jpg)
+
+
 ### Kubectl
 - 1
 
