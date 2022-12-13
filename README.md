@@ -1,5 +1,17 @@
 # Cheatsheets
 ## General
+- Go
+
+
+
+
+
+
+
+
+![#1](General/Go/1.jpg)
+![#2](General/Go/2.jpg)
+![#3](General/Go/3.jpg)
 ### Cassandra
 - CQL
 
@@ -268,6 +280,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![#1](Kubernetes/Kubectl/1/1.jpg)
 ![#1](Kubernetes/Kubectl/2/1.jpg)
 ![#1](Kubernetes/1/1.jpg)
@@ -282,30 +324,40 @@
 ![#10](Kubernetes/Kubectl/1/10.jpg)
 ![#10](Kubernetes/Kubectl/1/10.jpg)
 ![#10](Kubernetes/Kubectl/1/10.jpg)
+![#10](Kubernetes/Kubectl/1/10.jpg)
+![#11](Kubernetes/Kubectl/1/11.jpg)
 ![#11](Kubernetes/Kubectl/1/11.jpg)
 ![#11](Kubernetes/Kubectl/1/11.jpg)
 ![#11](Kubernetes/Kubectl/1/11.jpg)
 ![#12](Kubernetes/Kubectl/1/12.jpg)
 ![#12](Kubernetes/Kubectl/1/12.jpg)
 ![#12](Kubernetes/Kubectl/1/12.jpg)
+![#12](Kubernetes/Kubectl/1/12.jpg)
+![#13](Kubernetes/Kubectl/1/13.jpg)
 ![#13](Kubernetes/Kubectl/1/13.jpg)
 ![#13](Kubernetes/Kubectl/1/13.jpg)
 ![#13](Kubernetes/Kubectl/1/13.jpg)
 ![#14](Kubernetes/Kubectl/1/14.jpg)
 ![#14](Kubernetes/Kubectl/1/14.jpg)
 ![#14](Kubernetes/Kubectl/1/14.jpg)
+![#14](Kubernetes/Kubectl/1/14.jpg)
+![#15](Kubernetes/Kubectl/1/15.jpg)
 ![#15](Kubernetes/Kubectl/1/15.jpg)
 ![#15](Kubernetes/Kubectl/1/15.jpg)
 ![#15](Kubernetes/Kubectl/1/15.jpg)
 ![#16](Kubernetes/Kubectl/1/16.jpg)
 ![#16](Kubernetes/Kubectl/1/16.jpg)
 ![#16](Kubernetes/Kubectl/1/16.jpg)
+![#16](Kubernetes/Kubectl/1/16.jpg)
+![#17](Kubernetes/Kubectl/1/17.jpg)
 ![#17](Kubernetes/Kubectl/1/17.jpg)
 ![#17](Kubernetes/Kubectl/1/17.jpg)
 ![#17](Kubernetes/Kubectl/1/17.jpg)
 ![#18](Kubernetes/Kubectl/1/18.jpg)
 ![#18](Kubernetes/Kubectl/1/18.jpg)
 ![#18](Kubernetes/Kubectl/1/18.jpg)
+![#18](Kubernetes/Kubectl/1/18.jpg)
+![#19](Kubernetes/Kubectl/1/19.jpg)
 ![#19](Kubernetes/Kubectl/1/19.jpg)
 ![#19](Kubernetes/Kubectl/1/19.jpg)
 ![#19](Kubernetes/Kubectl/1/19.jpg)
